@@ -1,6 +1,8 @@
 ## Hi, I'm Arthur
 I'm currently working as a software engineer while I complete my Masters in Computer Science. To complement my education I've been working on several side projects covering different languages and functions. Take a look! 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgartner&layout=compact)]
+
 <!--
 **ArthurGartner/arthurgartner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
