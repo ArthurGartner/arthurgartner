@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Arthur Gartner 👋
+I'm currently working as a software engineer while I complete my Masters in Computer Science.
 
 <!--
 **ArthurGartner/arthurgartner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
