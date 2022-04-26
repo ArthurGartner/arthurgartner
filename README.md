@@ -1,5 +1,5 @@
 ## Hi, I'm Arthur
-I'm currently working as a software engineer while I complete my Masters in Computer Science. When not at work or school I've been working on several side projects covering different languages and functions. Take a look! 
+I'm currently working as a software engineer while I complete my Masters of Science (M.S.) in Computer and Information Sciences at The Citadel. When not at work or school I've been working on several side projects covering different languages and functions. Take a look! 
 
 <!--
 **ArthurGartner/arthurgartner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
