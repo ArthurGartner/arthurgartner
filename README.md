@@ -1,4 +1,4 @@
-### Hi, I'm Arthur Gartner 👋
+## Hi, I'm Arthur Gartner 👋
 I'm currently working as a software engineer while I complete my Masters in Computer Science.
 
 <!--
