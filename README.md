@@ -4,7 +4,7 @@
 I am a software engineer completing a Masters of Science (M.S.) in Computer and Information Sciences while continuing to build my technical skillset. When not at work or school I am usually working on side projects that solve real world problems and make atleast one other person's life easier. Away from the computer I take advantage of the local Charleston area and weather by sailing, going to the beach and taking motorcycle rides along the coast.
 
 ## 🔭 What I'm currently working on
-I enjoy the challenge of solving a problem. Every side project I start begins with an analysis of how to solve a particular problem. I additionally approach each side project with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
+I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
 As of **April 2022** my current side project is a workplace platform for employee and asset management called **magemanaged** with an accompanying REST API called **Merlin**. The repos for this project can be found by clicking the images below.<br>
 <p align='center'>
