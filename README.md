@@ -16,6 +16,13 @@ As of **April 2022** my current side project is a workplace platform for employe
 ## 🌱 What I'm currently learning
 I am currently learning how to develop web applications using the **MongoDB, Express, React and Node (MERN)** tech stack through side projects including **magemanaged** and **seal**.
 
+## 🕹️ My stats
+<div align="center">
+
+  <a href="">![example3](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgartner&layout=compact)</a>
+
+</div>
+
 ## 📫 How to reach me
 Feel free to contact me via email at **Arthur.Gartner@gmail.com**.
 
