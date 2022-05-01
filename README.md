@@ -19,7 +19,7 @@ I am currently learning how to develop web applications using the **MongoDB, Exp
 ## 🕹️ My stats
 <div align="center">
 
-  <a href='https://github.com/ArthurGartner'>![example3](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgartner&layout=compact)</a>
+  <a href='https://github.com/ArthurGartner?tab=repositories'>![example3](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgartner&layout=compact)</a>
 
 </div>
 
