@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Arthur
-<a href="https://www.linkedin.com/in/arthurgartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" width="21px"/></a><br>
+<a href="https://www.linkedin.com/in/arthurgartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@arthur.gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" width="21px"/></a><br>
 
 I am a software engineer completing a Masters of Science (M.S.) in Computer and Information Sciences while continuing to build my technical skillset. When not at work or school I am usually working on side projects that solve real world problems and make atleast one other person's life easier. Away from the computer I take advantage of the local Charleston area and weather by sailing, going to the beach and taking motorcycle rides along the coast.
 
