@@ -8,7 +8,7 @@ I am a software engineer completing a Masters of Science (M.S.) in Computer and 
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
 As of **May 2022** my current side project is a workplace platform for employee and asset management called **magemanaged** with an accompanying REST API called **Merlin**. The repos for this project can be found by clicking the images below.<br>
-  <a href='https://github.com/ArthurGartner/magemanaged-webapp'>
+  <a href='https://github.com/magemanaged/magemanaged-webapp'>
     <img src='https://user-images.githubusercontent.com/40064946/165388455-62700757-2e58-485f-9c35-14475e3a8d45.svg' align='center' width='60%' height='100%'/>
   </a>
     <a href='https://github.com/magemanaged/magemanaged-merlin-api'>
