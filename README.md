@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Arthur
 <a href="https://www.linkedin.com/in/arthurgartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@arthur.gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" width="21px" hei/></a>
-<a href="https://www.npmjs.com/~arthur.gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" width="55px" /></a>
+<a href="https://www.npmjs.com/~arthur.gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" width="21px" /></a>
 <a href="https://hub.docker.com/u/arthurgartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/docker.svg" alt="Arthur Gartner | Docker" width="21px"/></a><br>
 <!Docker svg taken from icons8.com  /!>
 
