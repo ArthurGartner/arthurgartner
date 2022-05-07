@@ -19,7 +19,7 @@ As of **May 2022** my current side project is a workplace platform for employee 
     <img src='https://user-images.githubusercontent.com/40064946/166190941-f273d5d2-d0c0-450f-9893-f326cf9a6e2f.svg' align='center' width='35%' height='100'/>
   </a><br>
 ## 🌱 What I'm currently learning
-I am currently learning how to develop web applications using the **MongoDB, Express, React and Node (MERN)** tech stack through side projects including **magemanaged** and **seal**.
+I am currently learning how to develop web applications using the **MongoDB, Express, React and Node (MERN)** tech stack through side projects including <a href="https://github.com/magemanaged">**magemanaged**</a> and <a href="https://github.com/sealing-software">**SEAL**</a>.
 
 ## 🕹️ My stats
 <div align="center">
