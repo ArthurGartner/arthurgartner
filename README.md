@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Arthur
-<a href="https://www.linkedin.com/in/ArthurGartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@Arthur.Gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" width="21px" hei/></a>
-<a href="https://www.npmjs.com/~Arthur.Gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" width="21px" /></a>
-<a href="https://pypi.org/user/Arthur.Gartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/pip.svg" alt="Arthur Gartner | PyPI" width="21px"/></a>
-<a href="https://hub.docker.com/u/ArthurGartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/docker.svg" alt="Arthur Gartner | Docker" width="21px"/></a><br>
+<a href="https://www.linkedin.com/in/ArthurGartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" height="21px"/></a>
+<a href="https://medium.com/@Arthur.Gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" height="21px" hei/></a>
+<a href="https://www.npmjs.com/~Arthur.Gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" height="21px" /></a>
+<a href="https://pypi.org/user/Arthur.Gartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/pip.svg" alt="Arthur Gartner | PyPI" height="21px"/></a>
+<a href="https://hub.docker.com/u/ArthurGartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/docker.svg" alt="Arthur Gartner | Docker" height="21px"/></a><br>
 <!Docker svg taken from icons8.com  /!>
 
 I am a software engineer completing a Masters of Science (M.S.) in Computer and Information Sciences while continuing to build my technical skillset. When not at work or school I am usually working on side projects that solve real world problems and make atleast one other person's life easier. Away from the computer I take advantage of the local Charleston area and weather by sailing, going to the beach and taking motorcycle rides along the coast.
