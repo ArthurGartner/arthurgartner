@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Arthur
 <a href="https://www.linkedin.com/in/ArthurGartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" height="21px"/></a>
 <a href="https://medium.com/@Arthur.Gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" height="21px" hei/></a>
-<a href="https://dev.to/arthurgartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/devto.png" alt="Arthur Gartner | DEV Community" height="21px" hei/></a>
+<a href="https://dev.to/arthurgartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/devto.svg" alt="Arthur Gartner | DEV Community" height="21px" hei/></a>
 <a href="https://www.npmjs.com/~arthur.gartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" height="21px" /></a>
 <a href="https://pypi.org/user/arthur.gartner/"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/pip.svg" alt="Arthur Gartner | PyPI" height="21px"/></a>
 <a href="https://rubygems.org/profiles/ArthurGartner"><img align="left" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/rubygems.svg" alt="Arthur Gartner | Ruby Gems" height="21px"/></a>
