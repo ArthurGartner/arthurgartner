@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Arthur
-<a href="https://www.linkedin.com/in/ArthurGartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" height="20px" width="20px"/></a>
-<a href="https://medium.com/@Arthur.Gartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" height="20px" width="25px"/></a>
+<a href="https://www.linkedin.com/in/ArthurGartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" height="20px"/></a>
+<a href="https://medium.com/@Arthur.Gartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" height="20px"/></a>
 <a href="https://dev.to/arthurgartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/devto.svg" alt="Arthur Gartner | DEV Community" height="20px"/></a>
-<a href="https://www.npmjs.com/~arthur.gartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" height="20px" width="25px"/></a>
-<a href="https://pypi.org/user/arthur.gartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/pip.svg" alt="Arthur Gartner | PyPI" height="20px" width="25px"/></a>
+<a href="https://www.npmjs.com/~arthur.gartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" height="20px"/></a>
+<a href="https://pypi.org/user/arthur.gartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/pip.svg" alt="Arthur Gartner | PyPI" height="20px"/></a>
 <a href="https://rubygems.org/profiles/ArthurGartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/rubygems.svg" alt="Arthur Gartner | Ruby Gems" height="20px"/></a>
-<a href="https://hub.docker.com/u/arthurgartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/docker.svg" alt="Arthur Gartner | Docker" height="20px" width="23px"/></a>
-<a href="https://leetcode.com/ArthurGartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/leetcode.svg" alt="Arthur Gartner | Leetcode" height="15px"/></a><br>
+<a href="https://hub.docker.com/u/arthurgartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/docker.svg" alt="Arthur Gartner | Docker" height="20px"/></a>
+<a href="https://leetcode.com/ArthurGartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/leetcode.svg" alt="Arthur Gartner | Leetcode" height="20px"/></a><br>
 <!Docker svg taken from icons8.com  /!>
 <!Leetcode icon by Icon 54, iconscout.com/!>
 
