@@ -15,15 +15,19 @@ I am a software engineer completing a Masters of Science (M.S.) in Computer and 
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **July 2022** my current side project is a workplace platform for employee and asset management called <a href="https://github.com/magemanaged/magemanaged-webapp">**magemanaged**</a> with an accompanying REST API called <a href="https://github.com/magemanaged/magemanaged-merlin-api">**Merlin**</a>. The repos for this project can be found by clicking the images below.<br>
-  <a href='https://github.com/magemanaged/magemanaged-webapp'>
-    <img src='https://user-images.githubusercontent.com/40064946/165388455-62700757-2e58-485f-9c35-14475e3a8d45.svg' align='center' width='60%' height='100%'/>
+As of **July 2022** my current side project is a calendar and time based public API called **calldatetime**. This project utilizes a VUE frontend with a Python backend running on AWS lambda. Deployment of the application will occur within a docker environment on AWS Elastic Beanstalk. Amazon RDS will function as the database with AWS cognito managing user signup and login. Users are able to create their own custom calendars used to calculate standard work hours within a certain time frame. Users are given an API key to call the service via a REST API from the platform of their choice. Checkout the repo by clicking the logo below!
+
+
+<br>
+<div align="center">
+  <a href='https://github.com/ArthurGartner/call-date-time'>
+    <img src='https://user-images.githubusercontent.com/40064946/177930947-8172962a-9900-4f5e-bf83-3142d42c26a1.svg' align='center' width='50%' height='100%'/>
   </a>
-    <a href='https://github.com/magemanaged/magemanaged-merlin-api'>
-    <img src='https://user-images.githubusercontent.com/40064946/166190941-f273d5d2-d0c0-450f-9893-f326cf9a6e2f.svg' align='center' width='35%' height='100'/>
-  </a><br>
+</div>
+<br>
+
 ## 🌱 What I'm currently learning
-I am currently learning how to develop web applications using the **MongoDB, Express, React and Node (MERN)** tech stack through side projects including <a href="https://github.com/magemanaged">**magemanaged**</a> and <a href="https://github.com/sealing-software">**SEAL**</a>.
+Powering through AWS and Azure certifications and integrating their services into my applications.
 
 ## 🕹️ My stats
 <div align="center">
@@ -31,7 +35,7 @@ I am currently learning how to develop web applications using the **MongoDB, Exp
 <a href="https://www.credly.com/earner/earned/badge/456a3a42-6bd8-43c1-8b45-23cc7906d50d"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930373-6561555f-4632-4fa4-98ba-aadb44e20983.png" alt="Arthur Gartner | Credly" height="90px"/></a>
 <a href="https://www.credly.com/earner/earned/badge/9301c007-77f9-4f9c-8010-6bc524cb8823"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930564-61d852f2-1f87-493f-a5d4-b891bdaca44a.png" alt="Arthur Gartner | Credly" height="90px"/></a>
 </div>
-
+<br>
 
 <div align="center">
 
