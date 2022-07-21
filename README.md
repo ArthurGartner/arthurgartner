@@ -21,7 +21,7 @@ As of **July 2022** my current side project is a calendar and time based public 
 <br>
 <div align="center">
   <a href='https://github.com/ArthurGartner/call-date-time'>
-    <img src='https://user-images.githubusercontent.com/40064946/177930947-8172962a-9900-4f5e-bf83-3142d42c26a1.svg' align='center' width='400px'/>
+    <img src='https://user-images.githubusercontent.com/40064946/180314733-f3aaa350-a5d0-4491-9f49-879359fa4c40.svg' align='center' width='400px'/>
   </a>
 </div>
 <br>
