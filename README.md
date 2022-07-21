@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Arthur
-<a href="https://www.linkedin.com/in/ArthurGartner/"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/linkedin.svg" alt="Arthur Gartner | LinkedIn" height="25px"/></a>
+<a href="https://www.linkedin.com/in/ArthurGartner/"><img align="center" src="https://user-images.githubusercontent.com/40064946/180315173-2f194149-6fa5-4b76-99a3-ce06f8500da9.svg" alt="Arthur Gartner | LinkedIn" height="25px"/></a>
 <a href="https://medium.com/@Arthur.Gartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/medium.svg" alt="Arthur Gartner | Medium" height="25px"/></a>
 <a href="https://dev.to/arthurgartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/devto.svg" alt="Arthur Gartner | DEV Community" height="25px"/></a>
 <a href="https://www.npmjs.com/~arthur.gartner"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/npm.svg" alt="Arthur Gartner | NPM" height="25px"/></a>
