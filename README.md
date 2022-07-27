@@ -34,6 +34,7 @@ Powering through AWS and Azure certifications and integrating their services int
 <a href="https://www.credly.com/earner/earned/badge/456a3a42-6bd8-43c1-8b45-23cc7906d50d"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930373-6561555f-4632-4fa4-98ba-aadb44e20983.png" alt="AWS Certified Cloud Practitioner" height="80px"/></a>
 <a href="https://www.credly.com/earner/earned/badge/690d0783-6fc8-4b99-83ce-b229471d8036"><img align="center" src="https://user-images.githubusercontent.com/40064946/177929751-a1024829-1fae-425c-8eab-fe48cb82e3c1.png" alt="AZ-900 Microsoft Azure Fundamentals" height="80px"/></a>
 <a href="https://www.credly.com/badges/547320b9-6767-4334-b236-eb1d7b266419"><img align="center" src="https://user-images.githubusercontent.com/40064946/179077554-9034ed08-a4df-477a-a1ed-0ded8b3bfbfd.png" alt="DP-900 Microsoft Azure Data Fundamentals" height="80px"/></a>
+<a href="https://www.credly.com/badges/547320b9-6767-4334-b236-eb1d7b266419"><img align="center" src="https://user-images.githubusercontent.com/40064946/181140133-7732424a-1d7b-4742-8ca4-92c5fd55088b.svg" alt="Google Cloud Digital Leader" height="80px"/></a>
 <a href="https://www.credly.com/earner/earned/badge/9301c007-77f9-4f9c-8010-6bc524cb8823"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930564-61d852f2-1f87-493f-a5d4-b891bdaca44a.png" alt="Project Management Professional (PMP)®" height="80px"/></a>
 </div>
 <br>
