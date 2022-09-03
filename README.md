@@ -27,7 +27,7 @@ As of **August 2022** my current side project is a calendar and time based publi
 <br>
 
 ## 🌱 What I'm currently learning
-Powering through AWS and Azure certifications and integrating their services into my applications.
+Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
 
 ## 🕹️ My stats
 <div align="center">
