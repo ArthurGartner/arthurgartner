@@ -15,16 +15,7 @@ I am a software engineer completing a Masters of Science (M.S.) in Computer and 
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **October 2022** my current side project is a calendar and time based public API called **calldatetime**. This project utilizes a VUE frontend with a Python backend running on AWS lambda. Deployment of the application will occur within a docker environment on AWS Elastic Beanstalk. Amazon RDS will function as the database with AWS cognito managing user signup and login. Users are able to create their own custom calendars used to calculate standard work hours within a certain time frame. Users are given an API key to call the service via a REST API from the platform of their choice. Checkout the repo by clicking the logo below!
-
-
-<br>
-<div align="center">
-  <a href='https://github.com/ArthurGartner/call-date-time'>
-    <img src='https://user-images.githubusercontent.com/40064946/180314733-f3aaa350-a5d0-4491-9f49-879359fa4c40.svg' align='center' width='400px'/>
-  </a>
-</div>
-<br>
+As of **November 2022** my current side project is a job tracking Django application for one of my last required classes. This application will be deployed on AWS Elastic Beanstalk and utilize a PostGreSQL database for persistent data. Applicaiton testing will be completed using pytest. Once this repo has been created this page will be updated with the link.
 
 ## 🌱 What I'm currently learning
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
