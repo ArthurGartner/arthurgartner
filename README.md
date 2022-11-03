@@ -15,7 +15,7 @@ I am a software engineer completing a Masters of Science (M.S.) in Computer and 
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **November 2022** my current side project is a job tracking Django application for one of my last required classes. This application will be deployed on AWS Elastic Beanstalk and utilize a PostGreSQL database for persistent data. Applicaiton testing will be completed using pytest. Once this repo has been created this page will be updated with the link.
+As of **November 2022** my current side project is a job tracking Django application for one of my last required classes. This application will be deployed on AWS Elastic Beanstalk and utilize a PostGreSQL database for persistent data. Application testing will be completed using pytest. Once this repo has been created this page will be updated with the link.
 
 ## 🌱 What I'm currently learning
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
