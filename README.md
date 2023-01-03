@@ -10,12 +10,12 @@
 <!Docker svg taken from icons8.com  /!>
 <!Leetcode icon by Icon 54, iconscout.com/!>
 
-I am a software engineer completing a Masters of Science (M.S.) in Computer and Information Sciences while continuing to build my technical skillset. When not at work or school I am usually working on side projects that solve real world problems and make atleast one other person's life easier. Away from the computer I take advantage of the local Charleston area and weather by sailing, going to the beach and taking motorcycle rides along the coast.
+I am a professional software engineer with more than 4 years of experience and hold a Bachelor of Science (B.S.) in Engineering and a Master of Science (M.S.) in Computer and Information Sciences. When not at work or school I am usually working on side projects that solve real world problems and make atleast one other person's life easier. Away from the computer I take advantage of the local Charleston area and weather by sailing, going to the beach and taking motorcycle rides along the coast.
 
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **December 2022** my current side project is a job tracking Django application called JobJump for one of my last required classes. check it out <a href="https://github.com/ArthurGartner/csci656-final-project">HERE</a>.
+As of **January 2023** I am currently studying for a few AWS certifications.
 
 ## 🌱 What I'm currently learning
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
