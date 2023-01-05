@@ -20,7 +20,7 @@ As of **January 2023** I am currently studying for a few AWS certifications.
 ## 🌱 What I'm currently learning
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
 
-## 🕹️ My stats
+## 🏆 My credentials
 <div align="center">
 <a href="https://www.credly.com/earner/earned/badge/456a3a42-6bd8-43c1-8b45-23cc7906d50d"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930373-6561555f-4632-4fa4-98ba-aadb44e20983.png" alt="AWS Certified Cloud Practitioner" height="80px"/></a>
 <a href="https://www.credly.com/earner/earned/badge/690d0783-6fc8-4b99-83ce-b229471d8036"><img align="center" src="https://user-images.githubusercontent.com/40064946/177929751-a1024829-1fae-425c-8eab-fe48cb82e3c1.png" alt="AZ-900 Microsoft Azure Fundamentals" height="80px"/></a>
@@ -29,8 +29,8 @@ Sharpening my algorithm and data structures knowledge. Checkout my <a href="http
 <a href="https://www.credential.net/28149941-fb4c-474f-a89f-a699d904baf0"><img align="center" src="https://user-images.githubusercontent.com/40064946/184407116-597016a4-8250-48fe-9afa-1672b9245a33.png" alt="Google Cloud Digital Leader" height="80px"/></a>
 <a href="https://www.credly.com/earner/earned/badge/9301c007-77f9-4f9c-8010-6bc524cb8823"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930564-61d852f2-1f87-493f-a5d4-b891bdaca44a.png" alt="Project Management Professional (PMP)®" height="80px"/></a>
 </div>
-<br>
 
+## 🕹️ My github stats
 <div align="center">
 
   <a href='https://github.com/ArthurGartner?tab=repositories'>![example3](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgartner&layout=compact)</a>
