@@ -27,8 +27,11 @@ Sharpening my algorithm and data structures knowledge. Checkout my <a href="http
 <a href="https://www.credly.com/earner/earned/badge/efa7a622-bc9e-4459-9940-5025339ab7eb"><img align="center" src="https://user-images.githubusercontent.com/40064946/182425609-e2f3044a-2d2c-4849-a471-5c1928ff83b8.png" alt="AI-900 Microsoft Azure AI Fundamentals" height="80px"/></a>
 <a href="https://www.credly.com/badges/547320b9-6767-4334-b236-eb1d7b266419"><img align="center" src="https://user-images.githubusercontent.com/40064946/179077554-9034ed08-a4df-477a-a1ed-0ded8b3bfbfd.png" alt="DP-900 Microsoft Azure Data Fundamentals" height="80px"/></a>
 <a href="https://www.credential.net/28149941-fb4c-474f-a89f-a699d904baf0"><img align="center" src="https://user-images.githubusercontent.com/40064946/184407116-597016a4-8250-48fe-9afa-1672b9245a33.png" alt="Google Cloud Digital Leader" height="80px"/></a>
+<a href="https://www.credly.com/earner/earned/badge/4f2229bf-2085-4883-a874-c9422e08892e"><img align="center" src="https://user-images.githubusercontent.com/40064946/213888325-3da7606e-8fd4-4bce-98fc-c166b54f4121.png" alt="CompTIA Security+ ce" height="80px"/></a>
 <a href="https://www.credly.com/earner/earned/badge/9301c007-77f9-4f9c-8010-6bc524cb8823"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930564-61d852f2-1f87-493f-a5d4-b891bdaca44a.png" alt="Project Management Professional (PMP)®" height="80px"/></a>
 </div>
+
+
 
 ## 🕹️ My github stats
 <div align="center">
