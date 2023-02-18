@@ -15,7 +15,7 @@ I am a professional software engineer with more than 4 years of experience and h
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **January 2023** I am currently studying for a few AWS certifications.
+As of **February 2023** I am currently studying for a few AWS certifications.
 
 ## 🌱 What I'm currently learning
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
