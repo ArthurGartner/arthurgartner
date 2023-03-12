@@ -10,12 +10,12 @@
 <!Docker svg taken from icons8.com  /!>
 <!Leetcode icon by Icon 54, iconscout.com/!>
 
-I am a professional software engineer with more than 4 years of experience and hold a Bachelor of Science (B.S.) in Engineering and a Master of Science (M.S.) in Computer and Information Sciences. When not at work or school I am usually working on side projects that solve real world problems and make atleast one other person's life easier. Away from the computer I take advantage of the local Charleston area and weather by sailing, going to the beach and taking motorcycle rides along the coast.
+I am a professional software engineer with more than 4 years of experience and hold a Bachelor of Science (B.S.) in Engineering and a Master of Science (M.S.) in Computer and Information Sciences. I am currently employed as a software engineer at <a href="https://www.verint.com/">Verint Systems</a> where I work on both the front-end and back-end of the <a href="https://www.verint.com/engagement-channels/verint-community/platform">Verint Community platform</a>. In my spare time when not at work or completing side projects I can be found exploring the Rocky Mountain region of the United States.
 
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **February 2023** I am currently studying for a few AWS certifications.
+As of **March 2023** I am currently studying for the MongoDB Associate Developer certification.
 
 ## 🌱 What I'm currently learning
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
