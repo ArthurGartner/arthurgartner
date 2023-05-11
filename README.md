@@ -25,7 +25,7 @@ As of **May 2023** I am currently building out my current events platform Might 
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">leetcode profile</a>!
 
 ## 📖 What I'm currently studying for
-The MongoDB Associate Developer developer certification.
+The **AWS Certified Developer - Associate** certification.
 
 ## 🏆 My credentials
 <div align="center">
