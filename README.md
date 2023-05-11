@@ -15,7 +15,7 @@ I am a professional software engineer with more than 4 years of experience and h
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **April 2023** I am currently building out my current events platform Might Need a Drink.
+As of **May 2023** I am currently building out my current events platform Might Need a Drink.
 
 <div align="center">
 <a href="https://github.com/mightneedadrink"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
@@ -34,11 +34,10 @@ The MongoDB Associate Developer developer certification.
 <a href="https://www.credly.com/badges/efa7a622-bc9e-4459-9940-5025339ab7eb/public_url"><img align="center" src="https://user-images.githubusercontent.com/40064946/182425609-e2f3044a-2d2c-4849-a471-5c1928ff83b8.png" alt="AI-900 Microsoft Azure AI Fundamentals" height="80px"/></a>
 <a href="https://www.credly.com/badges/547320b9-6767-4334-b236-eb1d7b266419/public_url"><img align="center" src="https://user-images.githubusercontent.com/40064946/179077554-9034ed08-a4df-477a-a1ed-0ded8b3bfbfd.png" alt="DP-900 Microsoft Azure Data Fundamentals" height="80px"/></a>
 <a href="https://www.credential.net/28149941-fb4c-474f-a89f-a699d904baf0"><img align="center" src="https://user-images.githubusercontent.com/40064946/184407116-597016a4-8250-48fe-9afa-1672b9245a33.png" alt="Google Cloud Digital Leader" height="80px"/></a>
+<a href="https://www.credly.com/badges/37ce5eff-4911-4547-82bf-467a7997bdfa/public_url"><img align="center" src="https://github.com/ArthurGartner/arthurgartner/assets/40064946/9e883561-4a61-4fdf-a205-e750bd74c7a8" alt="MongoDB Associate Developer" height="80px"/></a>
 <a href="https://www.credly.com/badges/4f2229bf-2085-4883-a874-c9422e08892e/public_url"><img align="center" src="https://user-images.githubusercontent.com/40064946/213888325-3da7606e-8fd4-4bce-98fc-c166b54f4121.png" alt="CompTIA Security+ ce" height="80px"/></a>
 <a href="https://www.credly.com/badges/9301c007-77f9-4f9c-8010-6bc524cb8823/public_url"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930564-61d852f2-1f87-493f-a5d4-b891bdaca44a.png" alt="Project Management Professional (PMP)®" height="80px"/></a>
 </div>
-
-
 
 ## 🕹️ My github stats
 <div align="center">
