@@ -15,13 +15,15 @@ I am a professional software engineer with more than <a href="https://www.linked
 ## 🔭 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **July 2023** I am currently building out my current events platform Might Need a Drink and a Chrome extension named curIor.
+As of **July 2023** I am currently building out my current events platform **Might Need a Drink** and a Google Chrome extension named **Curlor**.
 
 <div align="center">
 <a href="https://github.com/mightneedadrink"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
- </div>
+<a href="https://github.com/ArthurGartner/curlor"><img align="center" src="https://github.com/ArthurGartner/arthurgartner/assets/40064946/40199973-ec00-46b0-ac55-3dc8b2ec908f" alt="Curlor" height="300px"/></a>
+</div>
 
 ## 🌱 What I'm currently learning
+
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">**leetcode profile**</a>!
 
 ## 📖 What I'm currently studying for
