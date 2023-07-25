@@ -19,7 +19,7 @@ As of **July 2023** I am currently building out my current events platform **Mig
 
 <div align="center">
 <a href="https://github.com/mightneedadrink"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
-<a href="https://github.com/ArthurGartner/curlor"><img align="center" src="https://github.com/ArthurGartner/arthurgartner/assets/40064946/40199973-ec00-46b0-ac55-3dc8b2ec908f" alt="Curlor" height="300px"/></a>
+<a href="https://github.com/ArthurGartner/curlor"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/curlor128.png" alt="Curlor" height="300px"/></a>
 </div>
 
 ## 🌱 What I'm currently learning
