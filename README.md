@@ -12,10 +12,10 @@
 
 I am a professional software engineer with more than <a href="https://www.linkedin.com/in/arthurgartner/">**5 years**</a> of experience and hold a Bachelor of Science (B.S.) in Engineering and a Master of Science (M.S.) in Computer and Information Sciences. I am currently employed as a software engineer at <a href="https://www.verint.com/">**Verint Systems**</a> where I work on both the front-end and back-end of the <a href="https://www.verint.com/engagement-channels/verint-community/platform">**Verint Community platform**</a>. In my spare time when not at work or completing side projects I can be found exploring the Rocky Mountain region of the United States.
 
-## 🔭 What I'm currently working on
+## 🔨 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **July 2023** I am currently building out my current events platform **Might Need a Drink** and a Google Chrome extension named **Curlor**.
+As of **August 2023** I am currently building out my current events platform **Might Need a Drink** and a Google Chrome extension named **Curlor**.
 
 <div align="center">
 <a href="https://github.com/mightneedadrink"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
