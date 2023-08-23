@@ -18,7 +18,7 @@ I enjoy the challenge of solving a problem. Every side project I start begins wi
 As of **August 2023** I am currently building out my current events platform **Might Need a Drink**.
 
 <div align="center">
-<a href="https://github.com/mightneedadrink"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
+<a href="https://github.com/ArthurGartner/mnad"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
 </div>
 
 ## 🚀 What I've deployed
