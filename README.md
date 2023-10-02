@@ -15,7 +15,7 @@ I am a professional software engineer with more than <a href="https://www.linked
 ## 🔨 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **September 2023** I am currently building out my current events platform **Might Need a Drink**.
+As of **October 2023** I am currently building out my current events platform **Might Need a Drink**.
 
 <div align="center">
 <a href="https://github.com/ArthurGartner/mnad"><img align="center" src="https://user-images.githubusercontent.com/40064946/229996272-0748353e-9dc8-4a8e-9863-9d05514ffa9c.svg" alt="Might Need a Drink" height="300px"/></a>
