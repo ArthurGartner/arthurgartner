@@ -31,7 +31,7 @@ As of **February 2024** I am currently building out my current events platform <
 Sharpening my algorithm and data structures knowledge. Checkout my <a href="https://leetcode.com/ArthurGartner/">**leetcode profile**</a>!
 
 ## 📖 What I'm currently studying for
-The <a href="https://aws.amazon.com/certification/certified-sysops-admin-associate/">**AWS Certified SysOps Administrator - Associate**<a> certification.
+The <a href="https://resources.github.com/learn/certifications/">**GitHub Foundations**<a> certification.
 
 ## 🏆 My credentials
 <div align="center">
