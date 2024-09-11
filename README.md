@@ -35,6 +35,7 @@ The <a href="https://aws.amazon.com/certification/certified-developer-associate/
 
 ## 🏆 My credentials
 <div align="center">
+<a href="https://www.credly.com/badges/df3c049c-5cee-4ba8-9211-f3fd635cebf8/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/githubactions.png" alt="GitHub Actions" height="80px"/></a>
 <a href="https://www.credly.com/badges/cc8dd31c-8916-4140-9b43-cffe3c5c43b8/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/githubfoundationsbadge.png" alt="GitHub Foundations" height="80px"/></a>
 <a href="https://www.credly.com/badges/839b514d-9bc4-4591-b7f5-0880af7ed028/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/awscertifieddev.png" alt="AWS Certified Developer - Associate" height="80px"/></a>
 <a href="https://www.credly.com/badges/456a3a42-6bd8-43c1-8b45-23cc7906d50d/public_url"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930373-6561555f-4632-4fa4-98ba-aadb44e20983.png" alt="AWS Certified Cloud Practitioner" height="80px"/></a>
