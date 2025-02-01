@@ -15,11 +15,11 @@ I am a professional software engineer with more than <a href="https://www.linked
 ## 🔨 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **February 2025** I am currently building out my customer engagement platform <a href="https://www.hookhype.com">**HookHype**</a>.
+As of **February 2025** I am currently building out my customer engagement platform <a href="https://www.careerchisel.com">**CareerChisel**</a>.
 
 
 <div align="center">
-<a href="https://hookhype.com"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/hh_logo_full.svg" alt="MHookHyp" height="100px"/></a>
+<a href="https://careerchisel.com"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/brand_logo.svg" alt="Career Chisel logo" height="200px"/></a>
 </div>
 
 
