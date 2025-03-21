@@ -15,11 +15,11 @@ I am a professional software engineer with more than <a href="https://www.linked
 ## 🔨 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **February 2025** I am currently building out my career growth and job application platform <a href="https://www.careerchisel.com">**CareerChisel**</a>.
+As of **March 2025** I am currently building out focus platform <a href="https://www.focudo.com">**FocuDo**</a>.
 
 
 <div align="center">
-<a href="https://careerchisel.com"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/brand_logo.svg" alt="Career Chisel logo" height="200px"/></a>
+<a href="https://focudo.com"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/focudo-logo.svg" alt="FocuDo logo" height="200px"/></a>
 </div>
 
 
