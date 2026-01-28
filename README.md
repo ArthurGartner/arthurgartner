@@ -50,6 +50,10 @@ The <a href="https://aws.amazon.com/certification/certified-developer-associate/
 <a href="https://www.credly.com/badges/9301c007-77f9-4f9c-8010-6bc524cb8823/public_url"><img align="center" src="https://user-images.githubusercontent.com/40064946/177930564-61d852f2-1f87-493f-a5d4-b891bdaca44a.png" alt="Project Management Professional (PMP)®" height="80px"/></a>
 <a href="https://www.credly.com/badges/932d237b-e0bf-4d00-bb5f-efa42a150580/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/capmcert.png" alt="Certified Associate in Project Management (CAPM)®" height="80px"/></a>
 <a href="https://www.credly.com/badges/db388081-58f0-4de8-b927-987a16659e7a/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/fe_badge.png" alt="Fundamentals of Engineering" height="80px"/></a>
+<a href="https://www.credly.com/badges/212bf054-657f-48b9-961e-50511eb540b5/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_professional.png" alt="Genesys Cloud: Professional Certification" height="80px"/></a>
+<a href="https://www.credly.com/badges/fd4baed2-a52e-4d63-ac66-9c08009e69cd/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_professional.png" alt="Genesys Cloud CX: Developer Certification" height="80px"/></a>
+<a href="https://www.credly.com/badges/cb139f4c-d0ee-4e2e-9378-8f8cb4fbbe03/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_professional.png" alt="Genesys Cloud CX: Architect Certification" height="80px"/></a>
+<a href="https://www.credly.com/badges/6a688ff0-09b3-4ee3-a27f-7700c70e9bf0/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_professional.png" alt="Genesys Cloud CX: Quality Management Certification" height="80px"/></a>
 </div>
 
 ## 🕹️ My github stats
