@@ -15,7 +15,7 @@ I am a professional software engineer with more than <a href="https://www.linked
 ## 🔨 What I'm currently working on
 I enjoy the challenge of solving a problem. Every side project I start begins with an identification of a particular problem and the formulation of a potential solution. Once a likely solution is determined I approach it with a desire to learn a new language, framework or system design. These challenges keep me sharp and give me the benefit of learning while working.
 
-As of **January 2026** I am currently building out focus platform <a href="https://www.focudo.com">**FocuDo**</a>.
+As of **February 2026** I am currently building out focus platform <a href="https://www.focudo.com">**FocuDo**</a>.
 
 
 <div align="center">
@@ -53,6 +53,7 @@ The <a href="https://aws.amazon.com/certification/certified-developer-associate/
 <a href="https://www.credly.com/badges/212bf054-657f-48b9-961e-50511eb540b5/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_professional.png" alt="Genesys Cloud: Professional Certification" height="80px"/></a>
 <a href="https://www.credly.com/badges/fd4baed2-a52e-4d63-ac66-9c08009e69cd/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_developer.png" alt="Genesys Cloud CX: Developer Certification" height="80px"/></a>
 <a href="https://www.credly.com/badges/cb139f4c-d0ee-4e2e-9378-8f8cb4fbbe03/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_architect.png" alt="Genesys Cloud CX: Architect Certification" height="80px"/></a>
+<a href="https://www.credly.com/badges/9432a12e-9404-4d24-aa1d-3c93ebbf83c2/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_scripting.png" alt="Genesys Cloud CX: Scripting Certification" height="80px"/></a>
 <a href="https://www.credly.com/badges/6a688ff0-09b3-4ee3-a27f-7700c70e9bf0/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_quality_management.png" alt="Genesys Cloud CX: Quality Management Certification" height="80px"/></a>
 </div>
 
