@@ -58,6 +58,7 @@ The <a href="https://aws.amazon.com/certification/certified-developer-associate/
 <a href="https://www.credly.com/badges/9432a12e-9404-4d24-aa1d-3c93ebbf83c2/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_scripting.png" alt="Genesys Cloud CX: Scripting Certification" height="80px"/></a>
 <a href="https://www.credly.com/badges/6a688ff0-09b3-4ee3-a27f-7700c70e9bf0/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_quality_management.png" alt="Genesys Cloud CX: Quality Management Certification" height="80px"/></a>
 <a href="https://www.credly.com/badges/2887610d-9896-46b0-a50e-bee4a2d2ba1d/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_outbound.png" alt="Genesys Cloud CX: Outbound Certification" height="80px"/></a>
+  <a href="https://www.credly.com/badges/00b143b4-85f3-484a-acf7-006258d638b0/public_url"><img align="center" src="https://raw.githubusercontent.com/arthurgartner/arthurgartner/main/images/genesys_wem.png" alt="Genesys Cloud CX: Workforce Management Certification" height="80px"/></a>
 </div>
 
 ## 🕹️ My github stats
